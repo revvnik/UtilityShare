@@ -1,2 +1,2 @@
-# BMFTR_Share
-Repository zum Zwecke der einfachen Dateiübertragung für BMFTR-Relevante Sachen
+# UtilityShare
+Repository zum Zwecke der einfachen Dateiübertragung für relevante Sachen
